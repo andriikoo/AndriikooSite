@@ -69,6 +69,41 @@ nav a:not(:first-of-type){
     background: #34547A;
 }
 
+.img1{
+    width: 141px;
+    height: 50px;
+    left: 409px;
+    top: 1159px;
+}
+
+.img2{
+    width: 141px;
+    height: 50px;
+    left: 595px;
+    top: 1159px;
+}
+
+.img3{
+    width: 141px;
+    height: 50px;
+    left: 785px;
+    top: 1159px;
+}
+
+.img4{
+    width: 141px;
+    height: 50px;
+    left: 975px;
+    top: 1159px;
+}
+
+.img5{
+    width: 141px;
+    height: 50px;
+    left: 1165px;
+    top: 1159px;
+}
+
 .section4{
     padding: 80px 20% 140px;
     background: #EEEFF1;
