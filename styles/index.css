@@ -103,8 +103,6 @@ nav a:not(:first-of-type){
 .section4{
     padding: 80px 20% 140px;
     background: #EEEFF1;
-    text-align: center;
-    margin: 0 auto;
 }
 
 h4{
@@ -125,9 +123,14 @@ h4{
     margin: 0 auto;
 }
 
-iframe {
-    display: block;
+.video-container{
+    max-width: 1100px;
+    text-align: center;
     margin: 57px auto;
+}
+
+.video-container iframe{
+    width: 100%;
 }
 
 .section5{
